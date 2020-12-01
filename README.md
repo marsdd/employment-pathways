@@ -6,7 +6,7 @@ Build employment pathways using job posting data and tree strucutres. For any oc
 
 ## Getting Started
 
-Visualisation [HERE](https://marsdd.github.io/employment-pathways/index.html). Select an occupation from the drop down to 
+Visualisation [HERE](https://marsdd.github.io/employment-pathways/index.html). Select an occupation from the drop down to begin building your pathway.
 
 ### Methodology
 
