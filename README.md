@@ -16,11 +16,11 @@ This tool is meant to serve as a prototype to test the results from our initial 
 
 ### Limitations and Future Research
 
-While these pathway results incorporate a larger set of occupations from which a user can begin their career path, this expanded set of occupations now allows and often recommends occupations with very small barriers to transition. To remdy this, we recommend applying a minimum distance threshold to filter out occupations where a transition is too close to be sensible. Additionally, this model recommends some 'downwards' moves where the recommended occupation does not require any upskilling or retraining. By implementing logic that accounts for experience, training and salary information, we can aim to avoid significant downward movememnt. 
+While these pathway results incorporate a larger set of occupations from which a user can begin their career path, this expanded set of occupations now allows and often recommends occupations with very small barriers to transition. To remedy this, we recommend applying a minimum distance threshold to filter out occupations where a transition is too close to be sensible. Additionally, this model recommends some 'downwards' moves where the recommended occupation does not require any upskilling or retraining. By implementing logic that accounts for experience, training and salary information, we can aim to avoid significant downward movement. 
 
 ## License
 
-This work was commissioned by the Ontario Trousim Education Corporation and the Future Skills Center for Project Integrate. We thank our partner and data provider Vicinity Jobs Inc. for engaging with us throughout the project. 
+This work was commissioned by the Ontario Tourism Education Corporation and the Future Skills Center for Project Integrate. We thank our partner and data provider Vicinity Jobs Inc. for engaging with us throughout the project. 
 
 This visualization is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
