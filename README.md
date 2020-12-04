@@ -4,7 +4,7 @@ Welcome to the [MaRS Data Catalyst](https://www.marsdd.com/service/data-catalyst
 
 ## Getting Started
 
-[HERE](https://marsdd.github.io/employment-pathways/index.html) is our employment pathway prototype]. To begin building your employment pathway, select an occupation from the drop down menu. A node will appear on the page to represent your selected occupation. By clicking on this node and subsequent nodes, you can explore various neighbouring jobs in terms of their underlying. 
+[HERE](https://marsdd.github.io/employment-pathways/index.html) is our employment pathway builder prototype. To begin building your employment pathway, select an occupation from the drop down menu. A node will appear on the page to represent your selected occupation. By clicking on this node and subsequent nodes, you can explore various neighbouring jobs in terms of their underlying. 
 
 ### Background & Methodology
 
