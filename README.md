@@ -6,7 +6,7 @@ Welcome to the [MaRS Data Catalyst](https://www.marsdd.com/service/data-catalyst
 
 [HERE](https://marsdd.github.io/employment-pathways/index.html) is our employment pathway builder prototype. To begin building your employment pathway, select an occupation from the drop down menu. A node will appear on the page to represent your selected occupation. By clicking on this node and subsequent nodes, you can explore various neighbouring jobs in terms of their underlying. 
 
-### Background & Methodology
+### Background and Methodology
 
 MaRS launched [planext](myplanext.com) in July 2019, a career navigation tool to help job seekers navigate the future of work. Since the release of our minimum viable product, we have engaged in beta-testing to understand the experience of job-seekers with planext, identify their pain points and overall compatibility of their needs with what is delivered in planext. The most common feedback received to planext was that users struggled to find their jobs. Choosing a set of job titles to fully represent the workforce is not easy nor is identifying how to move between jobs. The first iteration of planext relies on O\*NET, a US occupation information database describing nearly 1000 jobs. 
  
