@@ -1,10 +1,10 @@
 # Employment Pathway Builder
 
-Welcome to the [MaRS Data Catalyst](https://www.marsdd.com/service/data-catalyst/) employment pathway builder github repository. This pathway tool was built using D3.js. In this repo, you will find the HTML, CSS and JavaScript code used to build this tool. We use labour market information and tree structures to model and represent job adjacency and measures of job demand. 
+Welcome to the [MaRS Data Catalyst](https://www.marsdd.com/service/data-catalyst/) [employment pathway builder] (https://marsdd.github.io/employment-pathways/index.html) github repository. This pathway tool was built using D3.js. In this repo, you will find the HTML, CSS and JavaScript code used to build this tool. We use labour market information and tree structures to model and represent job adjacency and measures of job demand. 
 
 ## Getting Started
 
-Visualisation [HERE](https://marsdd.github.io/employment-pathways/index.html). Select an occupation from the drop down menu to begin building your employment pathway. This will cause a node to appear on the page. By clicking through the nodes, you can explore various neighbouring jobs in terms of their underlying skills. 
+[HERE)is our employment pathway prototype](https://marsdd.github.io/employment-pathways/index.html. To begin building your employment pathway, select an occupation from the drop down menu. A node will appear on the page to represent your selected occupation. By clicking on this node and subsequent nodes, you can explore various neighbouring jobs in terms of their underlying. 
 
 ### Background & Methodology
 
